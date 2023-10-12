@@ -1,5 +1,3 @@
-import jdk.nashorn.internal.ir.IfNode;
-
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
